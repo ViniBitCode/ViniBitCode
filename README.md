@@ -20,7 +20,7 @@
 # Contact me ~ 📲
 
 [![GitHub](https://img.shields.io/badge/ViniBitCode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniBitCode)
-[![LinkedIn](https://img.shields.io/badge/Facundo_Vinitzca-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/facundo-hernán-vinitzca-a2bb38284)
+[![LinkedIn](https://img.shields.io/badge/Facundo_Vinitzca-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-hernán-vinitzca-a2bb38284)
 [![Gmail](https://img.shields.io/badge/facundo@vinitzca.com.ar-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:facundo@vinitzca.com.ar)
 
 # Engineering progress ~ 📖
