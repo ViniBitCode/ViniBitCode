@@ -5,8 +5,10 @@
 - 💾 I'm searching for a job as a full stack developer with Java and Angular, while im working as a Technician Support in a pharmacy.
 - ❇️ Right now, i'm doing little proyects to improve my developer skills. My goal is to be a Java and Angular Senior the moment i finish my grade.
 
-![ViniBitCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniBitCode&show_icons=true&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniBitCode&theme=tokyonight" alt="mystreak"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ViniBitCode&show_icons=true&theme=radical" width="360" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniBitCode&theme=tokyonight" width="380" />
+</p>
 
 # My tech stack ~ 💻
 <p align="center">
