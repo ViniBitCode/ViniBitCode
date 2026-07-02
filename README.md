@@ -1,13 +1,18 @@
 # Hello, I'm Facundo :-)
 
-- 🧑 I'm 22 years old and i live in Argentina, Buenos Aires.
-- 📖 I'm studying at the National Technological University in a Information Systems Engineering grade.
-- 💾 I'm searching for a job as a full stack developer with Java and Angular, while im working as a Technician Support in a pharmacy.
-- ❇️ Right now, i'm doing little proyects to improve my developer skills. My goal is to be a Java and Angular Senior the moment i finish my grade.
+<img src="https://komarev.com/ghpvc/?username=ViniBitCode&style=flat-square&color=blue&label=Profile+views" alt="Profile views" />
+
+- 🧑 I'm 22 years old and I live in Buenos Aires, Argentina.
+- 📖 I'm studying Information Systems Engineering at the National Technological University (UTN).
+- 💾 I'm looking for a job as a full-stack developer with Java and Angular, while I'm working as a Support Technician in a pharmacy.
+- ❇️ Right now, I'm building small projects to improve my developer skills. My goal is to become a Senior Java and Angular developer by the time I finish my degree.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ViniBitCode&show_icons=true&theme=radical" width="360" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniBitCode&theme=tokyonight" width="380" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniBitCode&theme=tokyo-night&hide_border=true&area=true" width="740" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=ViniBitCode&theme=tokyonight" width="380" />
 </p>
 
 # My tech stack ~ 💻
@@ -25,4 +30,5 @@
 
 # Engineering progress ~ 📖
 <img width="4972" height="3110" alt="subjects-graph-frba-k23" src="https://github.com/user-attachments/assets/15922148-e84e-4d52-90b1-0d7a35fb6ac6" />
-~ This graph was made by https://github.com/RaniAgus
+
+~ This graph was made by [RaniAgus](https://github.com/RaniAgus)
